@@ -1,5 +1,5 @@
 # Social Atoms
 
-A research group building the science of social simulation: how to study, and how to test, whether machines can simulate society.
+A small research group at MIT and Stanford, building the science of social simulation: whether machines can simulate society, and what evidence could settle it.
 
-More soon.
+Our first instrument arrives soon.
