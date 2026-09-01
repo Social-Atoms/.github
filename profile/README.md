@@ -1,7 +1,9 @@
 ![Social Atoms](assets/banner.png)
 
-A small research group building the science of social simulation: whether machines can faithfully simulate society, and what evidence could settle it.
+We're a small research group working on the science of social simulation.
 
-Our first instrument arrives soon.
+Can machines faithfully simulate society? How would we know?
+
+Our first experiment launches soon.
 
 [social-atoms.com](https://social-atoms.com)
