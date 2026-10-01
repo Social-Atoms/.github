@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Social-Atoms/.github/main/profile/assets/banner.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Social-Atoms/.github/main/profile/assets/banner-light.png">
-  <img alt="Social Atoms" src="https://raw.githubusercontent.com/Social-Atoms/.github/main/profile/assets/banner.png">
-</picture>
+![Social Atoms](https://raw.githubusercontent.com/Social-Atoms/.github/main/profile/assets/banner.png)
 
 We're a small research group building the science of social simulation.
 
